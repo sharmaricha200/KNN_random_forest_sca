@@ -16,6 +16,3 @@ N_Haplo, BAN, BEN, CAM, SEN, Weight, HbF, Hb, HbS, RBC, RDW, PCV, Retic, MCV, MC
 used to determine whether certain patient will be a responder or not is 15% FHbF value. The selection of the threshold is based
 on published reports that HbF has a beneficial effect at this concentration (Valafar et al. 2000)
 
-**Dimensionality reduction using PCA**
-![Accuracies for different feature space and k values](link-to-image)
-
